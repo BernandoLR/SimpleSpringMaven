@@ -1,2 +1,2 @@
 # SimpleSpringMaven
-hello bernando lumban raja
+hello bernando lumban
